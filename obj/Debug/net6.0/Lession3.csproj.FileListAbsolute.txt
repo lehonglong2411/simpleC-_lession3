@@ -1,0 +1,15 @@
+D:\C#\Lession3\bin\Debug\net6.0\Lession3.exe
+D:\C#\Lession3\bin\Debug\net6.0\Lession3.deps.json
+D:\C#\Lession3\bin\Debug\net6.0\Lession3.runtimeconfig.json
+D:\C#\Lession3\bin\Debug\net6.0\Lession3.dll
+D:\C#\Lession3\bin\Debug\net6.0\ref\Lession3.dll
+D:\C#\Lession3\bin\Debug\net6.0\Lession3.pdb
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.csproj.AssemblyReference.cache
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.AssemblyInfoInputs.cache
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.AssemblyInfo.cs
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.csproj.CoreCompileInputs.cache
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.dll
+D:\C#\Lession3\obj\Debug\net6.0\ref\Lession3.dll
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.pdb
+D:\C#\Lession3\obj\Debug\net6.0\Lession3.genruntimeconfig.cache
